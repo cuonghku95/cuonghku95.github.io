@@ -36,7 +36,7 @@ Recent News
   <li><b>[Oct 2025]</b> Commenced a research visit at the <i>School of Geographical and Earth Sciences, University of Glasgow</i>, UK.</li>
   <li><b>[Sep 2025]</b> A review paper on Urban vitality has been accepted to publish at <i>Land Use Policy</i>.</li>
   <li><b>[Sep 2025]</b> A paper examining the impact of a delayed URT project on communities has been accepted to publish at <i>Habitat International</i>.</li>
-  <li><b>[Aug 2025]</b> Selected as a <b>Finalist for The Tony Crook Award</b> (Early Career Research category) at the <i>RTPI Awards for Research Excellence 2025</i>.</li>
+  <li><b>[Aug 2025]</b> Selected as a <i>Finalist for The Tony Crook Award</i> (Early Career Research category) at the <i>RTPI Awards for Research Excellence 2025</i>.</li>
   <li><b>[June 2025]</b> Presented at the <i>Transportation Research Symposium 2025</i> in Rotterdam, The Netherlands.</li>
   <li><b>[May 2025]</b> Successfully secured the <i>Glasgow/HKU Early Career Mobility Funds</i> for international research collaboration.</li>
   <li><b>[May 2025]</b> Conducted a research visit at the <i>Department of Geography and Regional Environment, Kansai University</i>, Japan.</li>
