@@ -10,7 +10,7 @@ var addressPoints = [
     -3.1791934
   ],
   [
-    "The costs of delay: Marginalization and sustainable development challenges around Hanoi\u2019s urban rail projects<br />Annual Meeting of the American Association of Geographers (AAG); San Francisco, California, USA",
+    "The costs of delay: Marginalization and sustainable development challenges around Hanois urban rail projects<br />Annual Meeting of the American Association of Geographers (AAG); San Francisco, California, USA",
     37.7879363,
     -122.4075201
   ],
