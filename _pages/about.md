@@ -19,18 +19,16 @@ My research interests lie at the intersection of urban analytics, geographic inf
 Recent News
 ------
 * **[2026]** Two papers on street configurations and urban rail impacts received *Major Revisions* in *Transportation Research Part A* and *Transport Policy*.
-* **[2025]** Honored to be a **Finalist of The Tony Crook Award** for Early Career Research (RTPI Awards for Research Excellence 2025).
-* **[2025]** Successfully secured the **Glasgow/HKU Early Career Mobility Funds** for international research collaboration.
-* **[2025]** Awarded the *Professor and Mrs Ko Wah Man Norman Enlightenment Scholarship*.
+* **[March 2026]** I attended the *American Association of Geographers Annual Meeting* at San Francisco, California, US.
+* **[Feb 2026]** I am horner to received *HKU Foundation First Year Excellent PhD Award 2024/25*
+* **[Oct 2025]** I start to visit *School of Geographical and Environment Science, the University of Glasgow*, UK.
+* **[August, 2025]** Honored to be a *Finalist of The Tony Crook Award* for Early Career Research (RTPI Awards for Research Excellence 2025).
+* **[June 2025]** I attend the *Transportation Research Symposium 2025*, Rotterdam, The Netherlands.
+* **[May 2025]** Successfully secured the *Glasgow/HKU Early Career Mobility Funds* for international research collaboration.
+* **[May 2025]** Awarded the *Professor and Mrs Ko Wah Man Norman Enlightenment Scholarship*.
+* **[March 2025]**I start to visit Department of Geography and Regional Environment, Kansai University, Japan
+* **[May 2025]** Awarded the *Professor and Mrs Ko Wah Man Norman Enlightenment Scholarship*.
 
-Selected Publications
-------
-*(For a full list, please visit my [Google Scholar](https://scholar.google.com/citations?user=GP9_no4AAAAJ) profile)*.
-
-1. **Doan, Q. C.**, Ma, J., Chen, S., Zhang, X. (2025). Nonlinear and threshold effects of the built environment, road vehicles, and air pollution on urban vitality. ***Landscape and Urban Planning***, 253, 105204.
-2. **Doan, Q. C.**, Zhang, X. (2025). The costs of delay: Marginalization and sustainability challenges around Hanoi's urban rail projects. ***Habitat International***, 166, 103594.
-3. **Doan, Q. C.**, Zhang, X. (2025). A systematic review of urban vitality studies: Trends and research opportunities. ***Land Use Policy***, 159, 107745.
-4. **Doan, Q. C.**, Vu, K. H., Trang, T. T. K., Bui, T. C. N. (2024). Examining the nonlinear threshold effects of the 5Ds built environment on land values using an interpretable machine learning model. ***Journal of Geographical Sciences***, 34, 2509-2533.
 
 Education
 ------
