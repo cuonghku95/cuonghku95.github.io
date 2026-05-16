@@ -15,8 +15,4 @@ author_profile: true
   </a>
 </div>
 
-<div style="margin-top: 20px; border: 1px solid #ddd; border-radius: 4px; overflow: hidden;">
-  <iframe src="/files/CV_Quang_Cuong_Doan_website.pdf" width="100%" height="900px" style="border: none;">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="/files/CV_Quang_Cuong_Doan_website.pdf">Download PDF</a>.
-  </iframe>
-</div>
+
