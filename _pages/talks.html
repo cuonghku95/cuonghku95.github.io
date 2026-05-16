@@ -11,8 +11,9 @@ author_profile: true
   <ol style="line-height: 1.7; padding-left: 20px;">
     {% for post in site.talks reversed %}
       <li style="margin-bottom: 12px;">
-        <strong>{{ post.title }}</strong>. 
-        <i>{{ post.venue }}</i>, {{ post.location }}, {{ post.date | date: "%B %Y" }}.
+        <strong>Doan, Q. C.*</strong>, & Zhang, X. ({{ post.date | date: "%Y" }}). 
+        {{ post.title }}. 
+        <i>{{ post.venue }}</i>, {{ post.location }}, {{ post.date | date: "%B %d" | replace: "January", "January " | replace: "February", "February " | replace: "March", "March " | replace: "April", "April " | replace: "May", "May " | replace: "June", "June " | replace: "July", "July " | replace: "August", "August " | replace: "September", "September " | replace: "October", "October " | replace: "November", "November " | replace: "December", "December " }}.
         {% if post.talkurl and post.talkurl != "" %}
           [<a href="{{ post.talkurl }}" target="_blank">Link</a>]
         {% endif %}
@@ -23,13 +24,6 @@ author_profile: true
 
 <br><br>
 <hr />
-<br>
-
-<div style="text-align: center; margin-bottom: 30px;">
-  <img src="/images/ten-anh-cua-anh.jpg" alt="Presentation" style="width: 80%; max-width: 600px; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);">
-  <p style="font-dash: italic; color: #666; font-size: 0.9em; margin-top: 5px;">Hình ảnh anh thuyết trình tại hội thảo (Thay đổi link ảnh trong code nếu cần)</p>
-</div>
-
 <br>
 
 <h2 style="margin-bottom: 15px;">Talk Map</h2>
