@@ -1,5 +1,5 @@
 ---
-title: "Presented research at the Annual Meeting of the American Association of Geographers (AAG)"
+title: "The costs of delay: Marginalization and sustainable development challenges around Hanoi’s urban rail projects"
 collection: talks
 permalink: /talks/2026-03-25-aag-meeting-san-francisco
 date: 2026-03-25
