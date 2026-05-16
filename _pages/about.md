@@ -53,10 +53,10 @@ Education
 <div style="text-align: justify;">
 <ul>
   <li><b>Ph.D. in Urban Planning and Design</b>, <i>The University of Hong Kong (HKU)</i>, 2022 - Present</li>
-  <b>Supervisor: Prof. Xhaiohu Zhang; Prof. Shenjing He, The University of Hong Kong</b>
+  <b>Supervisor</b>: <i> Prof. Xhaiohu Zhang; Prof. Shenjing He, The University of Hong Kong</i>
   <br>
   <li><b>M.Sc. in Land Administration</b> (Ranked 1st in the class of 50), <i>Vietnam National University (VNU)</i>, 2018 - 2020</li>
-  <b>Supervisor: Prof. Quoc Binh Tran, Vietnam National University, Hanoi</b>
+  <b>Supervisor</b>: <i>Prof. Quoc Binh Tran, Vietnam National University, Hanoi</i>
   <br>
   <li><b>B.Sc. in Land Administration</b> (Ranked 1st in the class of 70), <i>Vietnam National University (VNU)</i>, 2013 - 2017</li>
 </ul>
