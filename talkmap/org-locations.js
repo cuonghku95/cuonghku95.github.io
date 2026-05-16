@@ -23,5 +23,10 @@ var addressPoints = [
     "Toward sustainable urban design: Effects of traffic vehicles and urban design characteristics on pedestrian volumes<br />University of Science, Vietnam National University; Hanoi, Vietnam",
     21.0283334,
     105.854041
+  ],
+  [
+    "Do better street configurations mean higher land prices? Nonlinear and spatially heterogeneous effects revealed by GeoShapley<br />The 33rd International Conference on Geoinformatics (Geoinformatics 2026); Singapore",
+    1.357107,
+    103.8194992
   ]
 ];
