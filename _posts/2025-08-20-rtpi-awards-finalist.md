@@ -9,7 +9,6 @@ tags:
   - UK
 ---
 
-<img src="/images/rtpi_finalist.png" alt="RTPI Awards for Research Excellence 2025" style="display: block; max-width: 100%; height: auto; max-height: 500px; margin: 0 auto 20px auto; object-fit: contain; border-radius: 4px;">
 
 I am thrilled and deeply honored to announce that our research has been selected as a **Finalist for The Tony Crook Award** (Early Career Research category) at the prestigious **RTPI Awards for Research Excellence 2025**, presented by the Royal Town Planning Institute (RTPI), UK. 
 
@@ -20,3 +19,5 @@ You can view the official announcement and the full list of finalists on the [RT
 This achievement would not have been possible without the dedication and synergy of my co-authors. I would like to express my deepest gratitude to my co-authors, supervisors, and colleagues at the Department of Urban Planning and Design, The University of Hong Kong (HKU) for their continuous mentorship, unwavering support, and intellectual inspiration throughout this research journey.
 
 This recognition provides immense motivation for us to continue exploring innovative solutions in urban analytics and sustainable spatial planning!
+<img src="/images/rtpi_finalist.png" alt="RTPI Awards for Research Excellence 2025" style="display: block; max-width: 100%; height: auto; max-height: 500px; margin: 0 auto 20px auto; object-fit: contain; border-radius: 4px;">
+
