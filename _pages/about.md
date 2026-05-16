@@ -6,7 +6,7 @@ excerpt: "About me"
 author_profile: true
 ---
 
-
+{% include base_path %}
 <div style="text-align: justify; margin-bottom: 15px;">
 I am a PhD Candidate in the <b>Department of Urban Planning and Design</b> at <b>The University of Hong Kong (HKU)</b>, supported by the prestigious <b>Hong Kong PhD Fellowship Award (HKPFS)</b> and the <b>HKU Presidential PhD Scholarship</b>.
 </div>
