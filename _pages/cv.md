@@ -1,64 +1,24 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<div style="text-align: center; margin-top: 40px; margin-bottom: 40px;">
+  <p style="font-size: 1.2em; color: #333; margin-bottom: 20px;">
+    Click the button below to view or download my full Curriculum Vitae.
+  </p>
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  <a href="{{ base_path }}/files/CV_Quang_Cuong_Doan_website.pdf" target="_blank" style="display: inline-block; padding: 12px 30px; font-size: 1.1em; font-weight: bold; color: #fff; background-color: #2c3e50; border-radius: 5px; text-decoration: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background 0.3s;">
+    📄 Download My CV (PDF)
+  </a>
+</div>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<div style="margin-top: 30px; border: 1px solid #ddd; border-radius: 4px; overflow: hidden;">
+  <iframe src="{{ base_path }}/files/Cuong_CV.pdf" width="100%" height="800px" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ base_path }}/files/Cuong_CV.pdf">Download PDF</a>.
+  </iframe>
+</div>
