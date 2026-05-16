@@ -10,12 +10,12 @@ var addressPoints = [
     -3.1791934
   ],
   [
-    "Presented research at the Annual Meeting of the American Association of Geographers (AAG)<br />Annual Meeting of the American Association of Geographers (AAG); San Francisco, California, USA",
+    "The costs of delay: Marginalization and sustainable development challenges around Hanoi\u2019s urban rail projects<br />Annual Meeting of the American Association of Geographers (AAG); San Francisco, California, USA",
     37.7879363,
     -122.4075201
   ],
   [
-    "Presented at the Transportation Research Symposium 2025<br />Transportation Research Symposium 2025; Rotterdam, The Netherlands",
+    "Land value uplift and decline: The complex causal effects of delayed urban rail projects<br />Transportation Research Symposium 2025; Rotterdam, The Netherlands",
     51.9244424,
     4.47775
   ],
