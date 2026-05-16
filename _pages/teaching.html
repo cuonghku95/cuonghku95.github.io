@@ -7,6 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div style="text-align: justify; margin-top: 20px;">
+  {% for post in site.teaching reversed %}
+    <div style="margin-bottom: 25px;">
+      <h3 style="margin-bottom: 5px; color: #333;">{{ post.title }}</h3>
+      <p style="margin-top: 0; margin-bottom: 5px; font-style: italic; color: #666;">
+        {{ post.venue }} 
+        {% if post.type and post.type != "" %}
+          — {{ post.type }}
+        {% endif %}
+      </p>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">
+        {{ post.content | strip_html }}
+      </p>
+    </div>
+  {% endfor %}
+</div>
