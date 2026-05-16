@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "The spatiotemporal trends of urban-rural green spaces and their heterogeneous relationships with population and economic vitality: Evidence from the Red River Delta, Vietnam"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2024-spatiotemporal-trends-green-spaces
+date: 2024-01-02
+venue: 'Socio-Economic Planning Sciences'
+paperurl: 'https://doi.org/10.1016/j.seps.2024.101885'
+citation: '<b>Doan, Q. C.*</b> (2024). The spatiotemporal trends of urban-rural green spaces and their heterogeneous relationships with population and economic vitality: Evidence from the Red River Delta, Vietnam. <i>Socio-Economic Planning Sciences</i>, 93, 101885.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+<div style="text-align: justify;">
+Doan, Q. C.* (2024). The spatiotemporal trends of urban-rural green spaces and their heterogeneous relationships with population and economic vitality: Evidence from the Red River Delta, Vietnam. Socio-Economic Planning Sciences, 93, 101885.
+</div>
