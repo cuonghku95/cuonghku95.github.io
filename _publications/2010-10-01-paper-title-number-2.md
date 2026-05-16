@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "The costs of delay: Marginalization and sustainability challenges around Hanoi's urban rail projects"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2025-costs-of-delay-habitat
+excerpt: 'An in-depth analysis of the socio-economic costs, community marginalization, and long-term sustainability issues caused by delayed transit infrastructure.'
+date: 2025-01-15
+venue: 'Habitat International'
+paperurl: 'https://doi.org/10.1016/j.habitatint.2024.103594'
+citation: '<b>Doan, Q. C.</b>, & Zhang, X. (2025). The costs of delay: Marginalization and sustainability challenges around Hanoi’s urban rail projects. <i>Habitat International</i>, 166, 103594.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<div style="text-align: justify;">
+This paper examines the extensive repercussions of prolonged delays in urban rail transit development in Hanoi, Vietnam. By focusing on the experiences of transit-adjacent communities, the research highlights the critical need for integrating institutional, financial, and spatial planning to prevent urban marginalization.
+</div>
