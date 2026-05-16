@@ -12,7 +12,7 @@ author_profile: true
 
   <ul style="list-style-type: none; padding-left: 0; margin-top: 20px;">
     <li style="margin-bottom: 12px;">
-      <strong>📧 Email:</strong> <a href="mailto:cuonghku95@hku.hk">cuonghku95@hku.hk</a> (Primary)
+      <strong>📧 Email:</strong> <a href="mailto:cuongdoan@connect.hku.hk">cuongdoan@connect.hku.hk</a> (Primary)
     </li>
     <li style="margin-bottom: 12px;">
       <strong>🏢 Office:</strong> Department of Urban Planning and Design, The University of Hong Kong, Pokfulam Road, Hong Kong
