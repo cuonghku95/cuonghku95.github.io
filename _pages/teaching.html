@@ -8,18 +8,21 @@ author_profile: true
 {% include base_path %}
 
 <div style="text-align: justify; margin-top: 20px;">
-  {% for post in site.teaching reversed %}
-    <div style="margin-bottom: 25px;">
-      <h3 style="margin-bottom: 5px; color: #333;">{{ post.title }}</h3>
-      <p style="margin-top: 0; margin-bottom: 5px; font-style: italic; color: #666;">
-        {{ post.venue }} 
+  <ol style="line-height: 1.7; padding-left: 20px;">
+    {% for post in site.teaching reversed %}
+      <li style="margin-bottom: 20px; list-style-type: decimal;">
+        <strong>{{ post.title }}</strong> 
         {% if post.type and post.type != "" %}
-          — {{ post.type }}
+          ({{ post.type }})
         {% endif %}
-      </p>
-      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">
-        {{ post.content | strip_html }}
-      </p>
-    </div>
-  {% endfor %}
+        <br>
+        <span style="font-style: italic; color: #555;">{{ post.venue }}</span>
+        {% if post.content and post.content != "" %}
+          <div style="margin-top: 5px; font-size: 0.95em; color: #333;">
+            {{ post.content | strip_html }}
+          </div>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ol>
 </div>
