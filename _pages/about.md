@@ -5,9 +5,9 @@ excerpt: "About me"
 author_profile: true
 ---
 
-I am a PhD Candidate in the **Department of Urban Planning and Design** at **The University of Hong Kong (HKU)**, supported by the prestigious **Hong Kong PhD Fellowship Award (HKPFS)** and the **HKU Presidential PhD Scholarship**. My research focuses on leveraging spatial data science and artificial intelligence to foster smarter, healthier, and more vibrant urban environments.
+I am a PhD Candidate in the **Department of Urban Planning and Design** at **The University of Hong Kong (HKU)**, supported by the prestigious **Hong Kong PhD Fellowship Award (HKPFS)** and the **HKU Presidential PhD Scholarship**. 
 
-Currently, I am also a Visiting PhD Scholar at the **School of Geographical and Earth Sciences, University of Glasgow**, UK (Oct - Nov 2025). Prior to my doctoral studies, I served as a Lecturer and Academic Advisor at **Vietnam National University, Hanoi (VNU)**, where I also obtained my Master's and Bachelor's degrees in Land Administration, both graduating 1st in the class with High Distinction.
+I was a Visiting PhD Scholar at the **School of Geographical and Earth Sciences, University of Glasgow**, UK (Oct - Nov 2025). Prior to my doctoral studies, I served as a Lecturer at **Vietnam National University, Hanoi (VNU)**, where I also obtained my Master's and Bachelor's degrees in Land Administration, both graduating 1st in the class with High Distinction.
 
 Research Interests
 ------
@@ -18,15 +18,14 @@ My research interests lie at the intersection of urban analytics, geographic inf
 
 Recent News
 ------
-* **[2026]** Two papers on street configurations and urban rail impacts received *Major Revisions* in *Transportation Research Part A* and *Transport Policy*.
-* **[March 2026]** I attended the *American Association of Geographers Annual Meeting* at San Francisco, California, US.
-* **[Feb 2026]** I am horner to received *HKU Foundation First Year Excellent PhD Award 2024/25*
-* **[Oct 2025]** I start to visit *School of Geographical and Environment Science, the University of Glasgow*, UK.
-* **[August, 2025]** Honored to be a *Finalist of The Tony Crook Award* for Early Career Research (RTPI Awards for Research Excellence 2025).
-* **[June 2025]** I attend the *Transportation Research Symposium 2025*, Rotterdam, The Netherlands.
+* **[2026]** Two papers examining street configurations and urban rail impacts received *Major Revisions* from *Transportation Research Part A* and *Transport Policy*.
+* **[March 2026]** Presented our research at the *Annual Meeting of the American Association of Geographers (AAG)* in San Francisco, California, USA.
+* **[February 2026]** Honored to receive the *HKU Foundation First Year Excellent PhD Award 2024/25*.
+* **[October 2025]** Commenced a research visit at the *School of Geographical and Earth Sciences, University of Glasgow*, UK.
+* **[August 2025]** Selected as a **Finalist for The Tony Crook Award** (Early Career Research category) at the *RTPI Awards for Research Excellence 2025*.
+* **[June 2025]** Presented at the *Transportation Research Symposium 2025* in Rotterdam, The Netherlands.
 * **[May 2025]** Successfully secured the *Glasgow/HKU Early Career Mobility Funds* for international research collaboration.
-* **[May 2025]** Awarded the *Professor and Mrs Ko Wah Man Norman Enlightenment Scholarship*.
-* **[March 2025]**I start to visit Department of Geography and Regional Environment, Kansai University, Japan
+* **[May 2025]** Conducted a research visit at the *Department of Geography and Regional Environment, Kansai University*, Japan.
 * **[May 2025]** Awarded the *Professor and Mrs Ko Wah Man Norman Enlightenment Scholarship*.
 
 
