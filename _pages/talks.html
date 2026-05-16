@@ -1,16 +1,22 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks & Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<div style="text-align: justify; margin-top: 20px;">
+  <ol style="line-height: 1.7; padding-left: 20px;">
+    {% for post in site.talks reversed %}
+      <li style="margin-bottom: 15px;">
+        <strong>{{ post.title }}</strong>. 
+        <i>{{ post.venue }}</i>, {{ post.location }}, {{ post.date | date: "%B %Y" }}.
+        {% if post.talkurl and post.talkurl != "" %}
+          [<a href="{{ post.talkurl }}" target="_blank">Slides/Link</a>]
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ol>
+</div>
