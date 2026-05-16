@@ -13,6 +13,8 @@ I am a PhD Candidate in the <b>Department of Urban Planning and Design</b> at <b
 
 <div style="text-align: justify;">
 I was a Visiting PhD Scholar at the <b>School of Geographical and Earth Sciences, University of Glasgow</b>, UK (Oct - Nov 2025). Prior to my doctoral studies, I served as a Lecturer at <b>Vietnam National University, Hanoi (VNU)</b>, where I also obtained my Master's and Bachelor's degrees in Land Administration, both graduating 1st in the class with High Distinction.
+
+In addition to my research, I actively contribute to the academic community as an invited reviewer for several leading international journals in urban planning and spatial data science. These include *Computers, Environment and Urban Systems*, *Land Use Policy*, *Sustainable Cities and Society*, *International Journal of Digital Earth*, *Journal of Housing and the Built Environment*, *Journal of Urban Management*, *Applied Spatial Analysis and Policy*, and *City and Environment Interactions*.
 </div>
 
 Research Interests
