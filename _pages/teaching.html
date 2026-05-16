@@ -10,16 +10,16 @@ author_profile: true
 <div style="text-align: justify; margin-top: 20px;">
   <ol style="line-height: 1.7; padding-left: 20px;">
     {% for post in site.teaching reversed %}
-      <li style="margin-bottom: 20px; list-style-type: decimal;">
+      <li style="margin-bottom: 20px;">
         <strong>{{ post.title }}</strong> 
         {% if post.type and post.type != "" %}
           ({{ post.type }})
         {% endif %}
         <br>
         <span style="font-style: italic; color: #555;">{{ post.venue }}</span>
-        {% if post.content and post.content != "" %}
+        {% if post.description and post.description != "" %}
           <div style="margin-top: 5px; font-size: 0.95em; color: #333;">
-            {{ post.content | strip_html }}
+            {{ post.description }}
           </div>
         {% endif %}
       </li>
