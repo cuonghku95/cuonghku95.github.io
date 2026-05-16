@@ -18,11 +18,13 @@ My research interests lie at the intersection of urban analytics, geographic inf
 
 Recent News
 ------
-* **[2026]** Two papers examining street configurations and urban rail impacts received *Major Revisions* from *Transportation Research Part A* and *Transport Policy*.
-* **[March 2026]** Presented our research at the *Annual Meeting of the American Association of Geographers (AAG)* in San Francisco, California, USA.
-* **[February 2026]** Honored to receive the *HKU Foundation First Year Excellent PhD Award 2024/25*.
-* **[October 2025]** Commenced a research visit at the *School of Geographical and Earth Sciences, University of Glasgow*, UK.
-* **[August 2025]** Selected as a **Finalist for The Tony Crook Award** (Early Career Research category) at the *RTPI Awards for Research Excellence 2025*.
+* **[Mar 2026]** Two papers examining street configurations and urban rail impacts received *Major Revisions* from *Transportation Research Part A* and *Transport Policy*.
+* **[Mar 2026]** Presented our research at the *Annual Meeting of the American Association of Geographers (AAG)* in San Francisco, California, USA.
+* **[Feb 2026]** Honored to receive the *HKU Foundation First Year Excellent PhD Award 2024/25*.
+* **[Oct 2025]** Commenced a research visit at the *School of Geographical and Earth Sciences, University of Glasgow*, UK.
+* **[Sep 2025]** A review paper on Urban vitality has been accepted to publish at Land Use Policy.
+* **[Sep 2025]** A paper examining the impact of a delayed URT project on communities has been accepted to publish at Habitat International.
+* **[Aug 2025]** Selected as a **Finalist for The Tony Crook Award** (Early Career Research category) at the *RTPI Awards for Research Excellence 2025*.
 * **[June 2025]** Presented at the *Transportation Research Symposium 2025* in Rotterdam, The Netherlands.
 * **[May 2025]** Successfully secured the *Glasgow/HKU Early Career Mobility Funds* for international research collaboration.
 * **[May 2025]** Conducted a research visit at the *Department of Geography and Regional Environment, Kansai University*, Japan.
