@@ -1,4 +1,5 @@
 ---
+layout: talk
 title: "Presented at the Transportation Research Symposium 2025"
 collection: talks
 permalink: /talks/2025-06-15-transportation-symposium-rotterdam
