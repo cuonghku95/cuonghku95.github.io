@@ -11,9 +11,8 @@ author_profile: true
   <ol style="line-height: 1.7; padding-left: 20px;">
     {% for post in site.talks reversed %}
       <li style="margin-bottom: 12px;">
-        <strong>Doan, Q. C.*</strong>, & Zhang, X. ({{ post.date | date: "%Y" }}). 
-        {{ post.title }}. 
-        <i>{{ post.venue }}</i>, {{ post.location }}, {{ post.date | date: "%B %d" | replace: "January", "January " | replace: "February", "February " | replace: "March", "March " | replace: "April", "April " | replace: "May", "May " | replace: "June", "June " | replace: "July", "July " | replace: "August", "August " | replace: "September", "September " | replace: "October", "October " | replace: "November", "November " | replace: "December", "December " }}.
+        <strong>{{ post.title }}</strong>. 
+        Presented at <i>{{ post.venue }}</i>, {{ post.location }}, {{ post.date | date: "%B %d, %Y" }}.
         {% if post.talkurl and post.talkurl != "" %}
           [<a href="{{ post.talkurl }}" target="_blank">Link</a>]
         {% endif %}
