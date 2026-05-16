@@ -18,5 +18,10 @@ var addressPoints = [
     "Presented at the Transportation Research Symposium 2025<br />Transportation Research Symposium 2025; Rotterdam, The Netherlands",
     51.9244424,
     4.47775
+  ],
+  [
+    "Toward sustainable urban design: Effects of traffic vehicles and urban design characteristics on pedestrian volumes<br />University of Science, Vietnam National University; Hanoi, Vietnam",
+    21.0283334,
+    105.854041
   ]
 ];
