@@ -5,6 +5,11 @@ var addressPoints = [
     1.8883335
   ],
   [
+    "Factors influencing citizens' intentions to cede land use rights for urban rail transit projects: An extended theory of planned behavior<br />International Conference on Planning, Law and Property Rights; Cardiff, United Kingdom",
+    51.4816546,
+    -3.1791934
+  ],
+  [
     "Presented research at the Annual Meeting of the American Association of Geographers (AAG)<br />Annual Meeting of the American Association of Geographers (AAG); San Francisco, California, USA",
     37.7879363,
     -122.4075201
