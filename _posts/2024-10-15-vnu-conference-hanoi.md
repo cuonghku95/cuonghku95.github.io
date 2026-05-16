@@ -1,7 +1,12 @@
 ---
-title: "Invited talk at the Facultuy of Geography, Vietnam NAtional University, Hanoi"
+title: "Toward sustainable urban design: Effects of traffic vehicles and urban design characteristics on pedestrian volumes"
 date: 2024-10-15
 permalink: /posts/2024/10/vnu-conference-hanoi
+image: /images/vnu.png
+header:
+  teaser: /images/vnu.png
+  overlay_image: /images/vnu.png
+  overlay_filter: 0.5
 tags:
   - Conference
   - VNU
