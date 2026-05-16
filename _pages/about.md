@@ -16,7 +16,7 @@ I was a Visiting PhD Scholar at the <b>School of Geographical and Earth Sciences
 </div>
 <br>
 <div style="text-align: justify;">
-In addition to my research, I actively contribute to the academic community as an invited reviewer for several leading international journals in urban planning and spatial data science. These include <i>Computers, Environment and Urban Systems, Land Use Policy, Sustainable Cities and Society, International Journal of Digital Earth, Journal of Housing and the Built Environment, Journal of Urban Management, Applied Spatial Analysis and Policy, and City and Environment Interactions</i>i>.
+In addition to my research, I actively contribute to the academic community as an invited reviewer for several leading international journals in urban planning and spatial data science. These include <i>Computers, Environment and Urban Systems, Land Use Policy, Sustainable Cities and Society, International Journal of Digital Earth, Journal of Housing and the Built Environment, Journal of Urban Management, Applied Spatial Analysis and Policy, and City and Environment Interactions</i>.
 </div>
 
 Research Interests
