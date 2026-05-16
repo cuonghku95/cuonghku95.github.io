@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap" style="margin-bottom: 25px;">You can also find my articles on <a href="{{ site.author.googlescholar }}" target="_blank">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-<div style="text-align: justify; margin-top: 20px;">
-  <ol reversed style="line-height: 1.6; padding-left: 20px;">
+<div style="text-align: justify;">
+  <ol style="line-height: 1.7; padding-left: 20px;">
     {% for post in site.publications reversed %}
-      <li style="margin-bottom: 15px;">
+      <li style="margin-bottom: 12px;">
         {{ post.citation }}
         {% if post.paperurl and post.paperurl != "" %}
           [<a href="{{ post.paperurl }}" target="_blank">Download Paper</a>]
