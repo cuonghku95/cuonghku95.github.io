@@ -10,4 +10,7 @@ citation: "<b>Doan, Q. C.*</b>, Ma, J., Chen, S., & Zhang, X.* (2025). Nonlinear
 
 <div style="text-align: justify;">
 Doan, Q. C.*, Ma, J., Chen, S., & Zhang, X.* (2025). Nonlinear and threshold effects of the built environment, road vehicles, and air pollution on urban vitality. Landscape and Urban Planning, 253, 105204.
+
+<br><br>
+<strong>Accepted manuscript (post-peer-review version):</strong> <a href="/files/Doan_etal_2025_UrbanVitality_Accepted.pdf">Download PDF</a>
 </div>
