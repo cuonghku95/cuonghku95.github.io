@@ -12,5 +12,5 @@ citation: "<b>Doan, Q. C.</b>, & Zhang, X.* (2025). A systematic review of urban
 Doan, Q. C., & Zhang, X.* (2025). A systematic review of urban vitality studies: Trends and research opportunities. Land Use Policy, 159, 107745.
 
   <br><br>
-<strong>Accepted manuscript (post-peer-review version):</strong> <a href="/files/Review paper_preprint.pdf">Download PDF</a>
+<strong>Accepted manuscript (post-peer-review version):</strong> <a href="/files/Review_paper_preprint.pdf">Download PDF</a>
 </div>
