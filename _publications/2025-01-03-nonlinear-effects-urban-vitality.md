@@ -26,8 +26,4 @@ citation: "<b>Doan, Q. C.*</b>, Ma, J., Chen, S., & Zhang, X.* (2025). Nonlinear
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
 
-<strong>Description / Abstract:</strong> 
-<br>
-*(Anh có thể dán đoạn Tóm tắt bài báo bằng tiếng Anh vào đây nếu muốn người xem đọc lướt qua nội dung trước khi tải).*
-
 </div>
