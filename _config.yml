@@ -6,7 +6,7 @@ site_theme: "default"
 title: "Quang Cuong Doan"
 title_separator: "-"
 name: "Quang Cuong Doan"
-description: "Quang Cuong Doan's academic portfolio - PhD Candidate at HKU"
+description: "Quang Cuong Doan's academic portfolio - PhD at HKU"
 url: "https://cuonghku95.github.io" 
 baseurl: "" # Để trống nếu tên repo là cuonghku95.github.io
 repository: "cuonghku95/cuonghku95.github.io"
@@ -16,7 +16,7 @@ author:
   avatar: "profile.png" # Đảm bảo anh đã up ảnh tên profile.png vào thư mục /images/
   name: "Quang Cuong Doan"
   pronouns: "he/his"
-  bio: "PhD Candidate"
+  bio: "PhD"
   location: "Hong Kong"
   employer: "The University of Hong Kong"
   uri: "https://scholar.google.com/citations?user=GP9_no4AAAAJ"
