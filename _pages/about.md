@@ -34,7 +34,7 @@ Recent News
 ------
 <div style="text-align: justify;">
 <ul>
-  <li><b>[Aug 2026]</b> I am happy to share that I graduated my PhD at The University of Hong Kong <i>Transport Policy <i>
+  <li><b>[Aug 2026]</b> I am happy to share that I graduated my PhD at The University of Hong Kong.
    <li><b>[June 2026]</b> A paper on delayed urban rail projects and land prices in Hanoi has been accepted for publication in <i>Transport Policy <i>
     <li><b>[June 2026]</b> A paper on street configurations and land prices in Hanoi has been accepted for publication in <i>Transportation Research Part A <i></li>
   <li><b>[Mar 2026]</b> Two papers examining street configurations and urban rail impacts received <i>Major Revisions</i> from <i>Transportation Research Part A</i> and <i>Transport Policy</i>.</li>
