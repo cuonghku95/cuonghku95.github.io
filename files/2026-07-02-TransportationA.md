@@ -1,13 +1,13 @@
 ---
-title: "GeoAI for urban analytics: Opportunities and challenges"
+title: "Do better street configurations mean higher land prices? Nonlinear and spatial heterogeneity effects revealed by GeoShapley"
 collection: publications
-permalink: /publication/2026-geoai-urban-analytics
-date: 2026-03-03
-venue: 'Big Earth Data (Under Revision)'
-paperurl: ''
-citation: 'Han, T.*, Wu, M., Chen, Y., Wang, M., Zhao, Q., & <b>Doan, Q. C.</b> (2026). GeoAI for urban analytics: Opportunities and challenges. <i>Big Earth Data</i>. (Minor revision).'
+permalink: /publication/2026-tra
+date: 2026-10-01
+venue: 'Transportation Research Part A: Policy and Practice'
+paperurl: 'https://doi.org/10.1016/j.tra.2026.105134'
+citation: '<b>Doan, Q. C.</b>, & Bui, T. C. N. (2026). Do better street configurations mean higher land prices? Nonlinear and spatial heterogeneity effects revealed by GeoShapley. <i>Transportation Research Part A: Policy and Practice</i>, 212, 105134.'
 ---
 
 <div style="text-align: justify;">
-Han, T.*, Wu, M., Chen, Y., Wang, M., Zhao, Q., Doan, Q. C.. (2026). GeoAI for urban analytics: Opportunities and challenges. Big Earth Data. (Minor revision)
+Doan, Q. C., & Bui, T. C. N. (2026). Do better street configurations mean higher land prices? Nonlinear and spatial heterogeneity effects revealed by GeoShapley. <i>Transportation Research Part A: Policy and Practice</i>, 212, 105134. https://doi.org/10.1016/j.tra.2026.105134
 </div>
