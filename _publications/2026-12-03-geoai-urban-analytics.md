@@ -2,7 +2,7 @@
 title: "GeoAI for urban analytics: Opportunities and challenges"
 collection: publications
 permalink: /publication/2026-geoai-urban-analytics
-date: 2026-09-03
+date: 2026-12-03
 venue: "Big Earth Data (Under Revision)"
 paperurl: ""
 citation: "Han, T.*, Wu, M., Chen, Y., Wang, M., Zhao, Q., & <b>Doan, Q. C.</b> (2026). GeoAI for urban analytics: Opportunities and challenges. <i>Big Earth Data</i>. (Minor revision)."
