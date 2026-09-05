@@ -52,7 +52,7 @@ Recent News
 </div>
 
 Education
-------
+
 <div style="text-align: justify;">
 <ul>
   <li><b>Ph.D. in Urban Planning and Design</b>, <i>The University of Hong Kong (HKU)</i>, 9/2022 - 8/2026</li>
