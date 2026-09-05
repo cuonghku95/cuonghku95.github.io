@@ -19,6 +19,21 @@ I was a Visiting PhD Scholar at the <b>School of Geographical and Earth Sciences
 In addition to my research, I actively contribute to the academic community as an invited reviewer for several leading international journals in urban planning and spatial data science. These include <i>Computers, Environment and Urban Systems, Land Use Policy, Sustainable Cities and Society, International Journal of Digital Earth, Journal of Housing and the Built Environment, Journal of Urban Management, Applied Spatial Analysis and Policy, and City and Environment Interactions</i>.
 </div>
 
+Education
+------
+<div style="text-align: justify;">
+<ul>
+  <li><b>Ph.D. in Urban Planning and Design</b>, <i>The University of Hong Kong (HKU)</i>, 9/2022 - 8/2026</li>
+  <b>Supervisor</b>: <i> Prof. Xiaohu Zhang; Prof. Shenjing He, The University of Hong Kong</i>
+  <br>
+  <li><b>M.Sc. in Land Administration</b> (Ranked 1st in the class of 50), <i>Vietnam National University (VNU)</i>, 2018 - 2020</li>
+  <b>Supervisor</b>: <i>Prof. Quoc Binh Tran, Vietnam National University, Hanoi</i>
+  <br>
+  <li><b>B.Sc. in Land Administration</b> (Ranked 1st in the class of 70), <i>Vietnam National University (VNU)</i>, 2013 - 2017</li>
+</ul>
+</div>
+
+
 Research Interests
 ------
 <div style="text-align: justify;">
@@ -48,19 +63,5 @@ Recent News
   <li><b>[May 2025]</b> Successfully secured the <i>Glasgow/HKU Early Career Mobility Funds</i> for international research collaboration.</li>
   <li><b>[May 2025]</b> Conducted a research visit at the <i>Department of Geography and Regional Environment, Kansai University</i>, Japan.</li>
   <li><b>[May 2025]</b> Awarded the <i>Professor and Mrs Ko Wah Man Norman Enlightenment Scholarship</i>.</li>
-</ul>
-</div>
-
-Education
-
-<div style="text-align: justify;">
-<ul>
-  <li><b>Ph.D. in Urban Planning and Design</b>, <i>The University of Hong Kong (HKU)</i>, 9/2022 - 8/2026</li>
-  <b>Supervisor</b>: <i> Prof. Xiaohu Zhang; Prof. Shenjing He, The University of Hong Kong</i>
-  <br>
-  <li><b>M.Sc. in Land Administration</b> (Ranked 1st in the class of 50), <i>Vietnam National University (VNU)</i>, 2018 - 2020</li>
-  <b>Supervisor</b>: <i>Prof. Quoc Binh Tran, Vietnam National University, Hanoi</i>
-  <br>
-  <li><b>B.Sc. in Land Administration</b> (Ranked 1st in the class of 70), <i>Vietnam National University (VNU)</i>, 2013 - 2017</li>
 </ul>
 </div>
