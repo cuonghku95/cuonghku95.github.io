@@ -2,7 +2,7 @@
 title: "Toward sustainable urban design to promote walking activity: Nonlinear effects of multiple-scale urban design on pedestrian volume"
 collection: publications
 permalink: /publication/Manuscript_JTG
-date: 2026-09-04
+date: 2026-12-12
 venue: "In preparation"
 citation: "<b>Doan, Q. C.</b> (2026). Toward sustainable urban design to promote walking activity: Nonlinear effects of multiple-scale urban design on pedestrian volume. (In preparation). <br><a href='/files/Manuscript_JTG.pdf' target='_blank' style='display: inline-block; padding: 4px 10px; margin-top: 8px; font-size: 0.85em; font-weight: bold; color: #fff; background-color: #2c3e50; border-radius: 4px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>📄 Preprint PDF</a>"
 ---
