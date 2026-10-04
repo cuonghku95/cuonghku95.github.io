@@ -10,7 +10,7 @@ author_profile: true
     Click the button below to view or download my full Curriculum Vitae.
   </p>
   
-  <a href="/files/CV_Quang_Cuong_Doan_website1.pdf" target="_blank" style="display: inline-block; padding: 10px 25px; font-size: 1em; font-weight: bold; color: #fff; background-color: #2c3e50; border-radius: 4px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <a href="/files/CV_Quang_Cuong_Doan_website2.pdf" target="_blank" style="display: inline-block; padding: 10px 25px; font-size: 1em; font-weight: bold; color: #fff; background-color: #2c3e50; border-radius: 4px; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
     📄 Download My CV (PDF)
   </a>
 </div>
